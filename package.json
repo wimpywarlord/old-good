@@ -1,0 +1,31 @@
+{
+  "name": "vue_express_playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server/index.js",
+    "dev": "nodemon server/index.js",
+    "start": "node server/index.js"
+  },
+  "keywords": [
+    "kshitij",
+    "dhyani"
+  ],
+  "author": "kshitij dhyani",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.15",
+    "node-cron": "^2.0.3",
+    "nodemailer": "^6.4.6",
+    "razorpay": "^2.0.6",
+    "shortid": "^2.2.15",
+    "vue-meta": "^2.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
