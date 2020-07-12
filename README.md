@@ -11,7 +11,7 @@ Well not anymore ! Get delicately drafted messages on a tap distance away. Subsc
   
 A smarter way to a longlasting relationship.
 
-Link to the website : https://morningrobot.herokuapp.com/
+Link to the website : https://morningrobot.herokuapp.com/#/
 
 ## Getting Started 🎧
 
