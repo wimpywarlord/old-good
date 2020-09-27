@@ -56,6 +56,7 @@ npm run dev
 Make Pull requests which improve the functionality of the application in any sorts. It should conform with the following conditions. 
 * Clear , short , crisp description of the PR. 
 * Should add on to the value of the application.
+* Any to all kind of enhancements are appreciated. 
 
 ## Become my distraction (Social Media)🏅
 I am From **New Delhi**<img align="center" src="https://image.flaticon.com/icons/svg/2924/2924814.svg" alt="drawing" width="5%"/>
