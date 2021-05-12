@@ -20,7 +20,7 @@
     "express": "^4.17.1",
     "mongoose": "^5.9.15",
     "node-cron": "^2.0.3",
-    "nodemailer": "^6.4.6",
+    "nodemailer": "^6.4.16",
     "razorpay": "^2.0.6",
     "shortid": "^2.2.15",
     "vue-meta": "^2.3.3"
